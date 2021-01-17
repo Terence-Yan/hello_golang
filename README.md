@@ -8,3 +8,4 @@
 * <a href="https://gin-gonic.com/#" target="_blank">Gin中文文档</a>
 * <a href="https://studygolang.com/" target="_blank">Go语言中文网 - Golang中文社区</a>
 * <a href="https://www.liwenzhou.com/" target="_blank">李文周博客</a>
+* <a href="https://github.com/jobbole/awesome-go-cn" target="_blank">Github_awesome-go_开源文档</a>
